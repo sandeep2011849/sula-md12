@@ -29,7 +29,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID === undefined ? '𝐒𝐔𝐋𝐀-𝐌𝐃=YmthVKBA#ZFjTSiTlyzO02woUwQb0SuJA-ZPocKRsbpdrWk5s8ug' : process.env.SESSION_ID,
+SESSION_ID: process.env.SESSION_ID === undefined ? '𝐒𝐔𝐋𝐀-𝐌𝐃=gydFzRYL#H2WlGV83v29o3hZtvMKxbYZd4EZmCGAq0YXOESMUzgo' : process.env.SESSION_ID,
 PREFIX: process.env.PREFIX || '.' ,
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"true" : process.env.AUTO_READ_STATUS,
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY === undefined ?"false" : process.env.AUTO_STATUS_REPLY,
